@@ -1,5 +1,8 @@
 ## KPI Performance Management System
 
+<img width="2050" height="1206" alt="Screenshot 2026-06-06 at 17 15 48" src="https://github.com/user-attachments/assets/a050a3ed-15d7-47a8-bbc4-bded19ae7a6a" />
+
+
 # Overview
 
 The KPI Performance Management System is a Power Platform solution designed to digitally manage employee daily task planning, execution tracking, compliance monitoring, behavioral assessments, and performance reporting across the organization.
