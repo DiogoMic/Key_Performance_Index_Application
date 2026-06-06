@@ -3,6 +3,24 @@
 <img width="2050" height="1206" alt="Screenshot 2026-06-06 at 17 15 48" src="https://github.com/user-attachments/assets/a050a3ed-15d7-47a8-bbc4-bded19ae7a6a" />
 
 
+<img width="2056" height="1160" alt="Task Entry Dashboard" src="https://github.com/user-attachments/assets/e7314c1f-49f0-46c8-b0e9-1ecfd00e9d40" />
+
+
+<img width="2056" height="1155" alt="Screenshot 2026-06-06 at 17 16 07" src="https://github.com/user-attachments/assets/f442a036-8f27-41a1-b5bc-f82e0022ba0a" />
+
+
+<img width="2056" height="1211" alt="Head of Department Dashboard" src="https://github.com/user-attachments/assets/91489850-5d6d-44a4-a6e3-68a880a34189" />
+
+
+<img width="2056" height="1211" alt="Management Employee Dashboard" src="https://github.com/user-attachments/assets/3d0bb974-20f2-4162-94c8-bbc7dca84a8c" />
+
+
+<img width="711" height="1113" alt="Screenshot 2026-06-06 at 17 14 56" src="https://github.com/user-attachments/assets/7951bb0f-2a1f-4948-81ad-94618f2a940d" />
+
+
+<img width="867" height="855" alt="Screenshot 2026-06-06 at 17 15 28" src="https://github.com/user-attachments/assets/7665dea1-e7c2-47bc-a153-418a6b652889" />
+
+
 # Overview
 
 The KPI Performance Management System is a Power Platform solution designed to digitally manage employee daily task planning, execution tracking, compliance monitoring, behavioral assessments, and performance reporting across the organization.
